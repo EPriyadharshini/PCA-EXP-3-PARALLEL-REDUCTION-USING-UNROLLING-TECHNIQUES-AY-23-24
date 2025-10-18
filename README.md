@@ -1,5 +1,7 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
 <h3>AIM:</h3>
+<h3>PRIYADHARSHINI E<h3>
+<h3>212223230159<h3>
 <h3>EX. NO 3</h3>
 <h3>17.10.2025</h3>
 <h1> <align=center> PARALLEL REDUCTION USING UNROLLING TECHNIQUES </h3>
@@ -377,7 +379,7 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 
-<img width="1152" height="104" alt="image" src="https://github.com/user-attachments/assets/cc0ef55c-ea0b-48f7-8d05-174db243a525" />
+<img width="1308" height="75" alt="image" src="https://github.com/user-attachments/assets/46093343-6f4f-4eec-b3cb-9bd9d81c8b51" />
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that GPU has executed with less elapsed time than GPU with blocks 2048,512.
